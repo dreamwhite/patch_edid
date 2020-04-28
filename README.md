@@ -41,9 +41,14 @@ by using:
 
 `sudo su` for getting elevated privileges
 
-then copy the folder by using
+then copy the folder to:
+
 
 `cp -R DisplayVendorID-XXXX /System/Library/Displays/Contents/Resources/Overrides`
+
+or 
+
+`cp -R DisplayVendorID-XXXX /System/Library/Displays/Overrides` if on < El Capitan
 
 Finally reboot and you should have fixed monitor colours :)
 
