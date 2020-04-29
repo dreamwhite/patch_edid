@@ -25,6 +25,10 @@ If the output is like:
 
 then you can proceed to the next step.
 
+#####Note: starting from macOS Catalina, the / partition is mounted in read-only mode. You need to mount it in read-write mode by using the following command:
+
+`sudo mount -uw /`
+
 ## Step 2: patch-edid.rb
 From a terminal window type: 
 
