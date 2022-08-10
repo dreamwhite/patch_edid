@@ -56,6 +56,10 @@ or
 
 Finally reboot and you should have fixed monitor colours :)
 
+## Issues
+
+If you encounter any issue, please file a bugreport [here](https://github.com/dreamwhite/bugtracker/issues/new?assignees=dreamwhite&labels=bug&template=generic.md&title=)
+
 ## Credits
 
 * **Apple** for macOS
